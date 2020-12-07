@@ -10227,7 +10227,7 @@ hr.light {
   }
 }
 
-.nav-item.obtenez-un-devis{
+.nav-item.obtenir-un-devis{
   border-radius: 25px;
   background: #ff7131;
   padding-right: 10px;
@@ -10283,7 +10283,7 @@ header.masthead.contact{
   max-width: 800px;
 }
 
-header.masthead.obtenez-un-devis{
+header.masthead.obtenir-un-devis{
   background: url("../assets/img/banners/grey-cans-on-orange.png");
   position: relative;
   padding-top: 10rem;
@@ -10323,12 +10323,12 @@ header.masthead h1 {
   padding: 2.5rem;
 }
 
-img.obtenez-un-devis{
+img.obtenir-un-devis{
   width: 2rem;
   transform: rotate(20deg);
 }
 
-img.obtenez-un-devis.capri-sun{
+img.obtenir-un-devis.capri-sun{
   width: 4rem;
 }
 
