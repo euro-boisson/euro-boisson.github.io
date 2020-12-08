@@ -10121,6 +10121,23 @@ hr.light {
   background-size: cover;
 }
 
+.logo-icon-mobile {
+  background-image: url("../assets/img/logo-euro-boisson.svg");
+  display: inline-block;
+  width: 95px;
+  height: 45px;
+  background-size: cover;
+  filter:invert(0%) sepia(5%) saturate(7409%) hue-rotate(142deg) brightness(106%) contrast(100%);
+}
+
+.logo-icon-mobile:hover{
+  filter:invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
+}
+
+.navbar-scrolled .logo-icon-mobile:hover{
+  filter:invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
+}
+
 /* to do remove */
 /* Style the navbar */
 #navbar {
@@ -10297,7 +10314,7 @@ header.masthead.obtenir-un-devis{
 
 
 header.masthead h1 {
-  font-size: 3.25rem;
+  font-size: 2.25rem;
 }
 @media (min-width: 992px) {
   header.masthead {
