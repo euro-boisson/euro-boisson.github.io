@@ -10246,7 +10246,7 @@ hr.light {
 
 .nav-item.obtenir-un-devis{
   border-radius: 25px;
-  background: #ff7131;
+  background: #81f384;
   padding-right: 10px;
 }
 
@@ -10301,7 +10301,7 @@ header.masthead.contact{
 }
 
 header.masthead.obtenir-un-devis{
-  background: url("../assets/img/banners/grey-cans-on-orange.png");
+  background: url("../assets/img/banners/grey-cans-on-green-gradient.png");
   position: relative;
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
@@ -10341,12 +10341,12 @@ header.masthead h1 {
 }
 
 img.obtenir-un-devis{
-  width: 2rem;
+  width: 4rem;
   transform: rotate(20deg);
 }
 
 img.obtenir-un-devis.capri-sun{
-  width: 4rem;
+  width: 6rem;
 }
 
 
