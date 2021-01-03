@@ -48,7 +48,7 @@
   $('#produits').magnificPopup({
     delegate: 'a',
     type: 'image',
-    tLoading: 'Loading image #%curr%...',
+    tLoading: 'Chargement de l\'image #%curr%...',
     mainClass: 'mfp-img-mobile',
     gallery: {
       enabled: true,
@@ -56,7 +56,7 @@
       preload: [0, 1]
     },
     image: {
-      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+      tError: '<a href="%url%">L\'image #%curr%</a> n\'est pas disponible.'
     }
   });
 
