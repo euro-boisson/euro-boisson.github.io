@@ -203,11 +203,18 @@ img {
   border-style: none;
 }
 
+div.brand-image{
+  height: 250px;
+}
+
 img.icon{
   height: auto;
   max-width:100%;
   max-height:15rem;
   margin-bottom: 1rem;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 svg {
